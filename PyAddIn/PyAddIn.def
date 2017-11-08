@@ -1,0 +1,7 @@
+LIBRARY    "PyAddIn"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
